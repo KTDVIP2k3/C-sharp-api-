@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C229914-F330-41EF-8F3E-00998E72D309}|SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBookingRepositories.csproj|d:\\prn231_assignment_1\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\base\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C229914-F330-41EF-8F3E-00998E72D309}|SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBookingRepositories.csproj|solutionrelative:sp25_net1718_rpr231_asm1_se173443_khanhtd\\base\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9474F1D0-AC15-4292-97DB-541E8FEE0CF7}|zSckinCareBookingService\\zSckinCareBookingService.csproj|d:\\prn231_assignment_1\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\zsckincarebookingservice\\services\\blogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9474F1D0-AC15-4292-97DB-541E8FEE0CF7}|zSckinCareBookingService\\zSckinCareBookingService.csproj|solutionrelative:zsckincarebookingservice\\services\\blogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C229914-F330-41EF-8F3E-00998E72D309}|SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBookingRepositories.csproj|d:\\prn231_assignment_1\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\blogcategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C229914-F330-41EF-8F3E-00998E72D309}|SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBookingRepositories.csproj|solutionrelative:sp25_net1718_rpr231_asm1_se173443_khanhtd\\blogcategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C93747-68AF-44CF-84D8-9EB0721BDA84}|zSkinCareBooking.ApiService\\zSkinCareBooking.ApiService.csproj|d:\\prn231_assignment_1\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\zskincarebooking.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48C93747-68AF-44CF-84D8-9EB0721BDA84}|zSkinCareBooking.ApiService\\zSkinCareBooking.ApiService.csproj|solutionrelative:zskincarebooking.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C229914-F330-41EF-8F3E-00998E72D309}|SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBookingRepositories.csproj|d:\\prn231_assignment_1\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C229914-F330-41EF-8F3E-00998E72D309}|SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBookingRepositories.csproj|solutionrelative:sp25_net1718_rpr231_asm1_se173443_khanhtd\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C229914-F330-41EF-8F3E-00998E72D309}|SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBookingRepositories.csproj|d:\\prn231_assignment_1\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\models\\blogcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C229914-F330-41EF-8F3E-00998E72D309}|SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBookingRepositories.csproj|solutionrelative:sp25_net1718_rpr231_asm1_se173443_khanhtd\\models\\blogcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C93747-68AF-44CF-84D8-9EB0721BDA84}|zSkinCareBooking.ApiService\\zSkinCareBooking.ApiService.csproj|d:\\prn231_assignment_1\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\zskincarebooking.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C93747-68AF-44CF-84D8-9EB0721BDA84}|zSkinCareBooking.ApiService\\zSkinCareBooking.ApiService.csproj|solutionrelative:zskincarebooking.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C93747-68AF-44CF-84D8-9EB0721BDA84}|zSkinCareBooking.ApiService\\zSkinCareBooking.ApiService.csproj|d:\\prn231_assignment_1\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\zskincarebooking.apiservice\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C93747-68AF-44CF-84D8-9EB0721BDA84}|zSkinCareBooking.ApiService\\zSkinCareBooking.ApiService.csproj|solutionrelative:zskincarebooking.apiservice\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C229914-F330-41EF-8F3E-00998E72D309}|SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBookingRepositories.csproj|d:\\prn231_assignment_1\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\dbcontext\\skincarebookingsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C229914-F330-41EF-8F3E-00998E72D309}|SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBookingRepositories.csproj|solutionrelative:sp25_net1718_rpr231_asm1_se173443_khanhtd\\dbcontext\\skincarebookingsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9474F1D0-AC15-4292-97DB-541E8FEE0CF7}|zSckinCareBookingService\\zSckinCareBookingService.csproj|d:\\prn231_assignment_1\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\zsckincarebookingservice\\interfaceservices\\iblogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9474F1D0-AC15-4292-97DB-541E8FEE0CF7}|zSckinCareBookingService\\zSckinCareBookingService.csproj|solutionrelative:zsckincarebookingservice\\interfaceservices\\iblogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C229914-F330-41EF-8F3E-00998E72D309}|SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBookingRepositories.csproj|d:\\prn231_assignment_1\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\blogpostsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C229914-F330-41EF-8F3E-00998E72D309}|SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBookingRepositories.csproj|solutionrelative:sp25_net1718_rpr231_asm1_se173443_khanhtd\\blogpostsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C93747-68AF-44CF-84D8-9EB0721BDA84}|zSkinCareBooking.ApiService\\zSkinCareBooking.ApiService.csproj|d:\\prn231_assignment_1\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\zskincarebooking.apiservice\\zskincarebooking.apiservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{48C93747-68AF-44CF-84D8-9EB0721BDA84}|zSkinCareBooking.ApiService\\zSkinCareBooking.ApiService.csproj|solutionrelative:zskincarebooking.apiservice\\zskincarebooking.apiservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9474F1D0-AC15-4292-97DB-541E8FEE0CF7}|zSckinCareBookingService\\zSckinCareBookingService.csproj|d:\\prn231_assignment_1\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\zsckincarebookingservice\\zsckincarebookingservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9474F1D0-AC15-4292-97DB-541E8FEE0CF7}|zSckinCareBookingService\\zSckinCareBookingService.csproj|solutionrelative:zsckincarebookingservice\\zsckincarebookingservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C229914-F330-41EF-8F3E-00998E72D309}|SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBookingRepositories.csproj|d:\\prn231_assignment_1\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\sp25_net1718_rpr231_asm1_se173443_khanhtd\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C229914-F330-41EF-8F3E-00998E72D309}|SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBookingRepositories.csproj|solutionrelative:sp25_net1718_rpr231_asm1_se173443_khanhtd\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogPostService.cs",
+              "DocumentMoniker": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSckinCareBookingService\\Services\\BlogPostService.cs",
+              "RelativeDocumentMoniker": "zSckinCareBookingService\\Services\\BlogPostService.cs",
+              "ToolTip": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSckinCareBookingService\\Services\\BlogPostService.cs",
+              "RelativeToolTip": "zSckinCareBookingService\\Services\\BlogPostService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:11:06.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBooking.ApiService\\appsettings.json",
+              "RelativeDocumentMoniker": "zSkinCareBooking.ApiService\\appsettings.json",
+              "ToolTip": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBooking.ApiService\\appsettings.json",
+              "RelativeToolTip": "zSkinCareBooking.ApiService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T00:31:02.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBooking.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "zSkinCareBooking.ApiService\\Program.cs",
+              "ToolTip": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBooking.ApiService\\Program.cs",
+              "RelativeToolTip": "zSkinCareBooking.ApiService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T01:26:52.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogPostController.cs",
+              "DocumentMoniker": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBooking.ApiService\\Controllers\\BlogPostController.cs",
+              "RelativeDocumentMoniker": "zSkinCareBooking.ApiService\\Controllers\\BlogPostController.cs",
+              "ToolTip": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBooking.ApiService\\Controllers\\BlogPostController.cs",
+              "RelativeToolTip": "zSkinCareBooking.ApiService\\Controllers\\BlogPostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T01:49:13.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\Base\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\Base\\GenericRepository.cs",
+              "ToolTip": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\Base\\GenericRepository.cs",
+              "RelativeToolTip": "SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\Base\\GenericRepository.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:06:45.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogCategoriesRepository.cs",
+              "DocumentMoniker": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\BlogCategoriesRepository.cs",
+              "RelativeDocumentMoniker": "SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\BlogCategoriesRepository.cs",
+              "ToolTip": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\BlogCategoriesRepository.cs",
+              "RelativeToolTip": "SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\BlogCategoriesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T00:37:36.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogCategory.cs",
+              "DocumentMoniker": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\Models\\BlogCategory.cs",
+              "RelativeDocumentMoniker": "SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\Models\\BlogCategory.cs",
+              "ToolTip": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\Models\\BlogCategory.cs",
+              "RelativeToolTip": "SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\Models\\BlogCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:40:27.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\Models\\BlogPost.cs",
+              "ToolTip": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\Models\\BlogPost.cs",
+              "RelativeToolTip": "SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\Models\\BlogPost.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:40:21.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SkinCareBookingSystemContext.cs",
+              "DocumentMoniker": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\DBContext\\SkinCareBookingSystemContext.cs",
+              "RelativeDocumentMoniker": "SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\DBContext\\SkinCareBookingSystemContext.cs",
+              "ToolTip": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\DBContext\\SkinCareBookingSystemContext.cs",
+              "RelativeToolTip": "SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\DBContext\\SkinCareBookingSystemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:17:20.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogPostsRepository.cs",
+              "DocumentMoniker": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\BlogPostsRepository.cs",
+              "RelativeDocumentMoniker": "SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\BlogPostsRepository.cs",
+              "ToolTip": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\BlogPostsRepository.cs",
+              "RelativeToolTip": "SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\BlogPostsRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:42:00.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBlogPostService.cs",
+              "DocumentMoniker": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSckinCareBookingService\\InterfaceServices\\IBlogPostService.cs",
+              "RelativeDocumentMoniker": "zSckinCareBookingService\\InterfaceServices\\IBlogPostService.cs",
+              "ToolTip": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSckinCareBookingService\\InterfaceServices\\IBlogPostService.cs",
+              "RelativeToolTip": "zSckinCareBookingService\\InterfaceServices\\IBlogPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T01:22:59.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "zSkinCareBooking.ApiService.http",
+              "DocumentMoniker": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBooking.ApiService\\zSkinCareBooking.ApiService.http",
+              "RelativeDocumentMoniker": "zSkinCareBooking.ApiService\\zSkinCareBooking.ApiService.http",
+              "ToolTip": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSkinCareBooking.ApiService\\zSkinCareBooking.ApiService.http",
+              "RelativeToolTip": "zSkinCareBooking.ApiService\\zSkinCareBooking.ApiService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-13T01:47:16.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "zSckinCareBookingService.csproj",
+              "DocumentMoniker": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSckinCareBookingService\\zSckinCareBookingService.csproj",
+              "RelativeDocumentMoniker": "zSckinCareBookingService\\zSckinCareBookingService.csproj",
+              "ToolTip": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\zSckinCareBookingService\\zSckinCareBookingService.csproj",
+              "RelativeToolTip": "zSckinCareBookingService\\zSckinCareBookingService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T01:08:48.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\UserAccountRepository.cs",
+              "ToolTip": "D:\\PRN231_Assignment_1\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\UserAccountRepository.cs",
+              "RelativeToolTip": "SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\\UserAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T00:43:49.449Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
