@@ -2,6 +2,7 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace zSkinCareBookingRepositories.Models;
 
@@ -23,5 +24,8 @@ public partial class BlogPost
 
     public string MetaDescription { get; set; }
 
-    public virtual ICollection<BlogCategory> Categories { get; set; } = new List<BlogCategory>();
+	public int CategoryId { get; set; }  // Khóa ngoại
+
+	[JsonIgnore]
+	public virtual BlogCategory Category { get; set; }
 }

@@ -15,7 +15,12 @@ namespace zSkinCareBookingRepositories
 
         public async Task<List<BlogCategory>> GetAll()
         {
-            return await _context.BlogCategories.Include(b => b.Posts).ToListAsync();
+            return await _context.BlogCategories.Include(b => b.BlogPosts).ToListAsync();
+        }
+
+        public async Task<BlogCategory> Search()
+        {
+            return null;
         }
     }
 }

@@ -1,0 +1,16 @@
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\obj\Debug\net8.0\zSckinCareBookingService.csproj.AssemblyReference.cache
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\obj\Debug\net8.0\zSckinCareBookingService.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\obj\Debug\net8.0\zSckinCareBookingService.AssemblyInfoInputs.cache
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\obj\Debug\net8.0\zSckinCareBookingService.AssemblyInfo.cs
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\obj\Debug\net8.0\zSckinCareBookingService.csproj.CoreCompileInputs.cache
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\obj\Debug\net8.0\zSckinCareBookingService.sourcelink.json
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\bin\Debug\net8.0\zSckinCareBookingService.deps.json
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\bin\Debug\net8.0\zSckinCareBookingService.dll
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\bin\Debug\net8.0\zSckinCareBookingService.pdb
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\bin\Debug\net8.0\zSkinCareBookingRepositories.dll
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\bin\Debug\net8.0\zSkinCareBookingRepositories.pdb
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\obj\Debug\net8.0\zSckinCa.BB23C92E.Up2Date
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\obj\Debug\net8.0\zSckinCareBookingService.dll
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\obj\Debug\net8.0\refint\zSckinCareBookingService.dll
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\obj\Debug\net8.0\zSckinCareBookingService.pdb
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_SE173443_KhanhTD\zSckinCareBookingService\obj\Debug\net8.0\ref\zSckinCareBookingService.dll

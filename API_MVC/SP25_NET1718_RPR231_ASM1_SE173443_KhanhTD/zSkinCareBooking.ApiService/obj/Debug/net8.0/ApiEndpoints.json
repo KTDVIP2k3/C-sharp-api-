@@ -1,28 +1,8 @@
 [
   {
     "ContainingType": "zSkinCareBooking.ApiService.Controllers.BlogPostController",
-    "Method": "Get",
-    "RelativePath": "api/BlogPost",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[zSkinCareBookingRepositories.Models.BlogPost, zSkinCareBookingRepositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "zSkinCareBooking.ApiService.Controllers.BlogPostController",
-    "Method": "Create",
-    "RelativePath": "api/BlogPost",
+    "Method": "CreateBlogPost",
+    "RelativePath": "api/blog/createBLogPost",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -33,22 +13,28 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Int32",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "zSkinCareBooking.ApiService.Controllers.BlogPostController",
-    "Method": "GetById",
-    "RelativePath": "api/BlogPost/{id}",
+    "Method": "DeleteBlogPost",
+    "RelativePath": "api/blog/deleteBlogPost/{blogPostId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "blogPostId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "zSkinCareBooking.ApiService.Controllers.BlogPostController",
+    "Method": "GetBlogPostById",
+    "RelativePath": "api/blog/getBlogPostById/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -59,79 +45,12 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "zSkinCareBookingRepositories.Models.BlogPost",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "zSkinCareBooking.ApiService.Controllers.BlogPostController",
-    "Method": "Update",
-    "RelativePath": "api/BlogPost/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "blogPost",
-        "Type": "zSkinCareBookingRepositories.Models.BlogPost",
-        "IsRequired": true
-      },
-      {
-        "Name": "id",
-        "Type": "",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Int32",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "zSkinCareBooking.ApiService.Controllers.BlogPostController",
-    "Method": "Delete",
-    "RelativePath": "api/BlogPost/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Boolean",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "zSkinCareBooking.ApiService.Controllers.BlogPostController",
     "Method": "Search",
-    "RelativePath": "api/BlogPost/{title}/{content}/{slug}/{metaDescription}",
+    "RelativePath": "api/blog/search/{title}/{content}/{slug}/{metaDescription}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -157,9 +76,19 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "zSkinCareBooking.ApiService.Controllers.BlogCategoryController",
+    "Method": "Get",
+    "RelativePath": "api/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[zSkinCareBookingRepositories.Models.BlogPost, zSkinCareBookingRepositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.String",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -168,6 +97,32 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "zSkinCareBooking.ApiService.Controllers.BlogPostController",
+    "Method": "GetAllBlogPost",
+    "RelativePath": "getAllBlogPost",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "zSkinCareBooking.ApiService.Controllers.BlogPostController",
+    "Method": "UpdateBlogPost",
+    "RelativePath": "updateBlogPost",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "blog",
+        "Type": "zSkinCareBookingRepositories.Models.BlogPost",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "zSkinCareBooking.ApiService.Controllers.WeatherForecastController",

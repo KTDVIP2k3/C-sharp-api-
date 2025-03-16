@@ -3,6 +3,7 @@
 using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using zSkinCareBookingRepositories.Models;
 
 namespace zSkinCareBookingRepositories.DBContext;
@@ -24,50 +25,61 @@ public partial class SkinCareBookingSystemContext : DbContext
 
     public virtual DbSet<UserAccount> UserAccounts { get; set; }
 
-//    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-//#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-//        => optionsBuilder.UseSqlServer("Data Source=ADMIN-PC\\SQLEXPRESS;Initial Catalog=SkinCareBookingSystem;Persist Security Info=True;User ID=sa;Password=sa123456;Encrypt=False");
+	public static string GetConnectionString(string connectionStringName)
+	{
+		var config = new ConfigurationBuilder()
+			.SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
+			.AddJsonFile("appsettings.json")
+			.Build();
 
-    protected override void OnModelCreating(ModelBuilder modelBuilder)
+		string connectionString = config.GetConnectionString(connectionStringName);
+		return connectionString;
+	}
+
+	protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+		=> optionsBuilder.UseSqlServer(GetConnectionString("DefaultConnection"));
+
+
+	//    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+	//#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
+	//        => optionsBuilder.UseSqlServer("Data Source=ADMIN-PC\\SQLEXPRESS;Initial Catalog=SkinCareBookingSystem;Persist Security Info=True;User ID=sa;Password=sa123456;Encrypt=False");
+
+	protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<BlogCategory>(entity =>
-        {
-            entity.HasKey(e => e.BlogCategoryId).HasName("PK__BlogCate__6BD2DA01100A4DF8");
+		modelBuilder.Entity<BlogCategory>(entity =>
+		{
+			entity.HasKey(e => e.BlogCategoryId).HasName("PK__BlogCate__6BD2DA01100A4DF8");
+			entity.Property(e => e.Name).HasMaxLength(100);
 
-            entity.Property(e => e.Name).HasMaxLength(100);
-        });
+			// Thiết lập quan hệ 1-N: Một category có nhiều blog post
+			entity.HasMany(c => c.BlogPosts)
+				  .WithOne(p => p.Category)
+				  .HasForeignKey(p => p.CategoryId)
+				  .OnDelete(DeleteBehavior.Cascade)  // Xóa category -> xóa blog post theo
+				  .HasConstraintName("FK_BlogPost_Category");
+		});
 
-        modelBuilder.Entity<BlogPost>(entity =>
-        {
-            entity.HasKey(e => e.PostId).HasName("PK__BlogPost__AA126018FF0681AE");
+		modelBuilder.Entity<BlogPost>(entity =>
+		{
+			entity.HasKey(e => e.PostId).HasName("PK__BlogPost__AA126018FF0681AE");
 
-            entity.Property(e => e.IsPublished).HasDefaultValue(false);
-            entity.Property(e => e.MetaDescription).HasMaxLength(255);
-            entity.Property(e => e.PublishedDate).HasColumnType("datetime");
-            entity.Property(e => e.Slug)
-                .HasMaxLength(255)
-                .IsUnicode(false);
-            entity.Property(e => e.Title).HasMaxLength(255);
+			entity.Property(e => e.IsPublished).HasDefaultValue(false);
+			entity.Property(e => e.MetaDescription).HasMaxLength(255);
+			entity.Property(e => e.PublishedDate).HasColumnType("datetime");
+			entity.Property(e => e.Slug).HasMaxLength(255).IsUnicode(false);
+			entity.Property(e => e.Title).HasMaxLength(255);
 
-            entity.HasMany(d => d.Categories).WithMany(p => p.Posts)
-                .UsingEntity<Dictionary<string, object>>(
-                    "BlogPostCategory",
-                    r => r.HasOne<BlogCategory>().WithMany()
-                        .HasForeignKey("CategoryId")
-                        .OnDelete(DeleteBehavior.ClientSetNull)
-                        .HasConstraintName("FK__BlogPostC__Categ__6D0D32F4"),
-                    l => l.HasOne<BlogPost>().WithMany()
-                        .HasForeignKey("PostId")
-                        .OnDelete(DeleteBehavior.ClientSetNull)
-                        .HasConstraintName("FK__BlogPostC__PostI__6C190EBB"),
-                    j =>
-                    {
-                        j.HasKey("PostId", "CategoryId").HasName("PK__BlogPost__0B82F3B87AD1DC53");
-                        j.ToTable("BlogPostCategories");
-                    });
-        });
+			// Thêm khóa ngoại CategoryId vào BlogPost
+			entity.Property(e => e.CategoryId).IsRequired();
 
-        modelBuilder.Entity<UserAccount>(entity =>
+			entity.HasOne(p => p.Category)
+				  .WithMany(c => c.BlogPosts)
+				  .HasForeignKey(p => p.CategoryId)
+				  .OnDelete(DeleteBehavior.Cascade)
+				  .HasConstraintName("FK_BlogPost_Category");
+		});
+
+		modelBuilder.Entity<UserAccount>(entity =>
         {
             entity.ToTable("UserAccount");
 

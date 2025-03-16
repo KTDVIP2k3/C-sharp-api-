@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zSkinCareBooking.ApiService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a95d946515bc8f49e1de7d6f61abe6bd43cc467")]
 [assembly: System.Reflection.AssemblyProductAttribute("zSkinCareBooking.ApiService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zSkinCareBooking.ApiService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

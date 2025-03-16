@@ -13,5 +13,5 @@ public partial class BlogCategory
 
     public string Description { get; set; }
 
-    public virtual ICollection<BlogPost> Posts { get; set; } = new List<BlogPost>();
+	public virtual ICollection<BlogPost> BlogPosts { get; set; } = new List<BlogPost>();
 }
