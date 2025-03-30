@@ -1,0 +1,176 @@
+[
+  {
+    "ContainingType": "zSkinCareBookin.ApiService.Controllers.ScheduleController",
+    "Method": "GetScheduleById",
+    "RelativePath": "api/Schedule/GetScheduleById/{scheduleId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "scheduleId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "zSkinCareBookin.ApiService.Controllers.ScheduleController",
+    "Method": "CreateSchedule",
+    "RelativePath": "CreateSchedule",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "scheduleDTO",
+        "Type": "zSkinCareBookingRepositories.DTO.ScheduleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "zSkinCareBookin.ApiService_.Controllers.TherapistController",
+    "Method": "CreateTherapist",
+    "RelativePath": "CreateTherapist",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "therapistDTO",
+        "Type": "zSkinCareBookingRepositories_.DTO.TherapistDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "zSkinCareBookin.ApiService.Controllers.ScheduleController",
+    "Method": "deleteScheduleById",
+    "RelativePath": "DeleteScheduleById{scheduleId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "scheduleId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "zSkinCareBookin.ApiService_.Controllers.TherapistController",
+    "Method": "DeleteTherapistById",
+    "RelativePath": "DeleteTherapist/{therapistId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "therapistId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "zSkinCareBookin.ApiService.Controllers.ScheduleController",
+    "Method": "GetAllSchedule",
+    "RelativePath": "GetAllSchedule",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "zSkinCareBookin.ApiService_.Controllers.TherapistController",
+    "Method": "GetAllTherapist",
+    "RelativePath": "GetAllTherapist",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "zSkinCareBookin.ApiService_.Controllers.TherapistController",
+    "Method": "GetTherapisById",
+    "RelativePath": "GetTherapistById{therapistId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "therapistId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "zSkinCareBookin.ApiService.Controllers.ScheduleController",
+    "Method": "UpdateScheduleById",
+    "RelativePath": "UpdateScheduleById/{scheduleId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "scheduleId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "scheduleDTO",
+        "Type": "zSkinCareBookingRepositories.DTO.ScheduleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "zSkinCareBookin.ApiService_.Controllers.TherapistController",
+    "Method": "UpdateTherapist",
+    "RelativePath": "UpdateTherapist",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "therapistDTO",
+        "Type": "zSkinCareBookingRepositories_.DTO.TherapistDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "zSkinCareBookin.ApiService_.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[zSkinCareBookin.ApiService_.WeatherForecast, zSkinCareBookin.ApiService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

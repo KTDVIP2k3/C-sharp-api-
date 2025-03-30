@@ -1,0 +1,6 @@
+@zSkinCareBookin.ApiService__HostAddress = http://localhost:5198
+
+GET {{zSkinCareBookin.ApiService__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
