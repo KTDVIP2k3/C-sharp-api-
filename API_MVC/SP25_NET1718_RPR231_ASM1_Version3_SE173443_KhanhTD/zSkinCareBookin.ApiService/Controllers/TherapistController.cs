@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.OData.Query;
 using Microsoft.Identity.Client;
 using Microsoft.IdentityModel.Tokens;
 using System.Net;
@@ -22,7 +24,10 @@ namespace zSkinCareBookin.ApiService_.Controllers
 		}
 
 
+
 		[HttpGet("/GetAllTherapist")]
+		[EnableQuery]
+		[Authorize]
 		public async Task<IActionResult> GetAllTherapist()
 		{
 			List<Therapist> therapists = await _therapistInterface.GetTherapists();
@@ -34,6 +39,7 @@ namespace zSkinCareBookin.ApiService_.Controllers
 		}
 
 		[HttpGet("/GetTherapistById{therapistId}")]
+		[Authorize]
 		public async Task<IActionResult> GetTherapisById(int therapistId)
 		{
 			try
@@ -51,6 +57,7 @@ namespace zSkinCareBookin.ApiService_.Controllers
 		}
 
 		[HttpPost("/CreateTherapist")]
+		[Authorize]
 		public async Task<IActionResult> CreateTherapist([FromBody] TherapistDTO therapistDTO)
 		{
 			try
@@ -68,6 +75,7 @@ namespace zSkinCareBookin.ApiService_.Controllers
 		}
 
 		[HttpPut("/UpdateTherapist")]
+		[Authorize]
 		public async Task<IActionResult> UpdateTherapist(TherapistDTO therapistDTO)
 		{
 			try
@@ -85,6 +93,7 @@ namespace zSkinCareBookin.ApiService_.Controllers
 		}
 
 		[HttpDelete("/DeleteTherapist/{therapistId}")]
+		[Authorize]
 		public async Task<IActionResult> DeleteTherapistById(int therapistId)
 		{
 			try

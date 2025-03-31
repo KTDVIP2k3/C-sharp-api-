@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.OData.Query;
 using Microsoft.IdentityModel.Tokens;
 using System.Net;
 using zSkinCareBookingRepositories.DTO;
@@ -17,7 +19,10 @@ namespace zSkinCareBookin.ApiService.Controllers
 		{
 			_scheduleInterfaceService = scheduleInterfaceService;
 		}
+
 		[HttpGet("/GetAllSchedule")]
+		[EnableQuery]
+		[Authorize]
 		public async Task<IActionResult> GetAllSchedule()
 		{
 			List<Schedule> schedules = await _scheduleInterfaceService.GetSchedules();
@@ -29,6 +34,7 @@ namespace zSkinCareBookin.ApiService.Controllers
 		}
 
 		[HttpGet("GetScheduleById/{scheduleId}")]
+		[Authorize]
 		public async Task<IActionResult> GetScheduleById(int scheduleId)
 		{
 			try
@@ -43,9 +49,12 @@ namespace zSkinCareBookin.ApiService.Controllers
 			{
 				return BadRequest(ex);
 			}
+   //         Schedule schedule1 = await _scheduleInterfaceService.GetScheduleById(scheduleId);
+			//return schedule1;
 		}
 
 		[HttpPost("/CreateSchedule")]
+		[Authorize]
 		public async Task<IActionResult> CreateSchedule([FromBody] ScheduleDTO scheduleDTO)
 		{
 			if(await _scheduleInterfaceService.CreateSchedule(scheduleDTO) > 0)
@@ -56,6 +65,7 @@ namespace zSkinCareBookin.ApiService.Controllers
 		}
 
 		[HttpPut("/UpdateScheduleById/{scheduleId}")]
+		[Authorize]
 		public async Task<IActionResult> UpdateScheduleById(int scheduleId, [FromBody] ScheduleDTO scheduleDTO)
 		{
 			try
@@ -75,6 +85,7 @@ namespace zSkinCareBookin.ApiService.Controllers
 		}
 
 		[HttpDelete("/DeleteScheduleById{scheduleId}")]
+		[Authorize]
 		public async Task<IActionResult> deleteScheduleById(int scheduleId)
 		{
 			try

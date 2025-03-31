@@ -116,6 +116,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "zSkinCareBookin.ApiService_.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userAccount",
+        "Type": "zSkinCareBookingRepositories_.DTO.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "zSkinCareBookin.ApiService.Controllers.ScheduleController",
     "Method": "UpdateScheduleById",
     "RelativePath": "UpdateScheduleById/{scheduleId}",

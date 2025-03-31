@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zSkinCareBookingRepositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37c5e8792a02c6aab7669117a911bdf83c66e057")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38b27b213ce5da08fcec6f2593feb22cf81ecd86")]
 [assembly: System.Reflection.AssemblyProductAttribute("zSkinCareBookingRepositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zSkinCareBookingRepositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

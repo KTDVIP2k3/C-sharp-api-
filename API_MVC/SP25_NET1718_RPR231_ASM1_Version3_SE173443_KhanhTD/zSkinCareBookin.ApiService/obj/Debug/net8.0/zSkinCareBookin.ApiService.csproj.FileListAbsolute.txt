@@ -79,3 +79,9 @@ D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\zSkinCareBo
 D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\zSkinCareBookin.ApiService\obj\Debug\net8.0\zSkinCareBookin.ApiService.genruntimeconfig.cache
 D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\zSkinCareBookin.ApiService\obj\Debug\net8.0\ref\zSkinCareBookin.ApiService.dll
 D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\zSkinCareBookin.ApiService\obj\Debug\net8.0\zSkinCareBookin.ApiService.MvcApplicationPartsAssemblyInfo.cs
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\zSkinCareBookin.ApiService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\zSkinCareBookin.ApiService\bin\Debug\net8.0\Microsoft.AspNetCore.OData.dll
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\zSkinCareBookin.ApiService\bin\Debug\net8.0\Microsoft.OData.Core.dll
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\zSkinCareBookin.ApiService\bin\Debug\net8.0\Microsoft.OData.Edm.dll
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\zSkinCareBookin.ApiService\bin\Debug\net8.0\Microsoft.OData.ModelBuilder.dll
+D:\PRN231\API_MVC\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\zSkinCareBookin.ApiService\bin\Debug\net8.0\Microsoft.Spatial.dll
