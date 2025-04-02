@@ -30,12 +30,21 @@ namespace zSkinCareBookin.ApiService_
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+        
             builder.Services.AddScoped<ScheduleRepository>();
             builder.Services.AddScoped<TherapistRepository>();
             builder.Services.AddScoped<UserAccountRepository>();
             builder.Services.AddScoped<ScheduleInterfaceService, ScheduleImplementService>();
             builder.Services.AddScoped<TherapistServiceInterface, TherapistServiceImplement>();
             builder.Services.AddScoped<UserAccountServiceInterface, UserAccountServiceImplement>();
+
+
+
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll",
+                    builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+            });
 
             builder.Services.AddAuthorization();
 

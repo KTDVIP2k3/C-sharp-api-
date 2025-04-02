@@ -3,8 +3,108 @@
   "WorkspaceRootPath": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\therapists\\therapistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\therapists\\therapistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\schedule\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\schedule\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\account\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\account\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\account\\fobidden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\account\\fobidden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\schedules\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\schedules\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\therapists\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\therapists\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\therapists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\therapists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookin.apiservice\\controllers\\therapistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|solutionrelative:zskincarebookin.apiservice\\controllers\\therapistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\schedules\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\schedules\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\therapists\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\therapists\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\therapists\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\therapists\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\therapists\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\therapists\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookin.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|solutionrelative:zskincarebookin.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\therapistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\therapistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingservices\\implementservice\\therapistserviceimplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|solutionrelative:zskincarebookingservices\\implementservice\\therapistserviceimplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingservices\\interfaceservice\\therapistserviceinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|solutionrelative:zskincarebookingservices\\interfaceservice\\therapistserviceinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\schedules\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\schedules\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookin.apiservice\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +115,80 @@
       "RelativeMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|solutionrelative:zskincarebookin.apiservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookin.apiservice\\controllers\\therapistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|solutionrelative:zskincarebookin.apiservice\\controllers\\therapistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\dto\\therapistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\dto\\therapistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingservices\\interfaceservice\\scheduleinterfaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|solutionrelative:zskincarebookingservices\\interfaceservice\\scheduleinterfaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\models\\therapist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\models\\therapist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\schedules\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\schedules\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingservices\\implementservice\\scheduleimplementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|solutionrelative:zskincarebookingservices\\implementservice\\scheduleimplementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\dto\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\dto\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookin.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|solutionrelative:zskincarebookin.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookin.apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|solutionrelative:zskincarebookin.apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\sp25_mvc_fe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F417249-3877-4743-9A9E-E0E84F6EDD1A}|SP25_MVC_FE\\SP25_MVC_FE.csproj|solutionrelative:sp25_mvc_fe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\zskincarebookingrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\zskincarebookingrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookin.apiservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|solutionrelative:zskincarebookin.apiservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingservices\\implementservice\\useraccountserviceimplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,52 +203,8 @@
       "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingservices\\implementservice\\therapistserviceimplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|solutionrelative:zskincarebookingservices\\implementservice\\therapistserviceimplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingservices\\implementservice\\scheduleimplementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|solutionrelative:zskincarebookingservices\\implementservice\\scheduleimplementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingservices\\interfaceservice\\therapistserviceinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|solutionrelative:zskincarebookingservices\\interfaceservice\\therapistserviceinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\dto\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\dto\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\therapistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\therapistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\dbcontext\\skincarebookingsystemv2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\dbcontext\\skincarebookingsystemv2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookin.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4A33B534-1045-4607-BDAA-9EF19BFD4DED}|zSkinCareBookin.ApiService\\zSkinCareBookin.ApiService.csproj|solutionrelative:zskincarebookin.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingservices\\interfaceservice\\scheduleinterfaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F52616A-5C71-4BFD-89E5-B6E04B7C3375}|zSkinCareBookingServices\\zSkinCareBookingServices.csproj|solutionrelative:zskincarebookingservices\\interfaceservice\\scheduleinterfaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\dto\\therapistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\dto\\therapistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\models\\therapist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\models\\therapist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\base\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,10 +217,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\zskincarebookingrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9D842AC3-778E-4160-ADB0-73F8C75E7574}|zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|solutionrelative:zskincarebookingrepositories\\zskincarebookingrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,137 +254,584 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserAccountServiceInterface.cs",
-              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\InterfaceService\\UserAccountServiceInterface.cs",
-              "RelativeDocumentMoniker": "zSkinCareBookingServices\\InterfaceService\\UserAccountServiceInterface.cs",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\InterfaceService\\UserAccountServiceInterface.cs",
-              "RelativeToolTip": "zSkinCareBookingServices\\InterfaceService\\UserAccountServiceInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T16:24:47.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "zSkinCareBookin.ApiService\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "zSkinCareBookin.ApiService\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAQwDoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T13:45:09.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ScheduleController.cs",
-              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\Controllers\\ScheduleController.cs",
-              "RelativeDocumentMoniker": "zSkinCareBookin.ApiService\\Controllers\\ScheduleController.cs",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\Controllers\\ScheduleController.cs",
-              "RelativeToolTip": "zSkinCareBookin.ApiService\\Controllers\\ScheduleController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAkwFUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:32:27.587Z",
+              "DocumentIndex": 4,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Account\\Home.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Account\\Home.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Account\\Home.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Account\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T16:35:37.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "SP25_MVC_FE\\Controllers\\AccountController.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwD0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:37:56.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "SP25_MVC_FE\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:27:22.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchedulesController.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Schedule\\SchedulesController.cs",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Schedule\\SchedulesController.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Schedule\\SchedulesController.cs*",
+              "RelativeToolTip": "SP25_MVC_FE\\Schedule\\SchedulesController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:09:55.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TherapistsController.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Therapists\\TherapistsController.cs",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Therapists\\TherapistsController.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Therapists\\TherapistsController.cs*",
+              "RelativeToolTip": "SP25_MVC_FE\\Therapists\\TherapistsController.cs*",
+              "ViewState": "AgIAACoBAAAAAAAAAAAQwEYBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:33:37.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T10:30:57.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fobidden.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Account\\Fobidden.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Account\\Fobidden.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Account\\Fobidden.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Account\\Fobidden.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T10:33:44.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T18:20:29.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T18:20:13.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Therapists\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Therapists\\Delete.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Therapists\\Delete.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Therapists\\Delete.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T17:06:09.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Therapists\\Index.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Therapists\\Index.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Therapists\\Index.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Therapists\\Index.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T16:45:10.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Schedules\\Create.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Schedules\\Create.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Schedules\\Create.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Schedules\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T11:24:47.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SP25_MVC_FE\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:25:05.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "SP25_MVC_FE\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:41:49.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T10:33:53.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "TherapistController.cs",
               "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\Controllers\\TherapistController.cs",
               "RelativeDocumentMoniker": "zSkinCareBookin.ApiService\\Controllers\\TherapistController.cs",
               "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\Controllers\\TherapistController.cs",
               "RelativeToolTip": "zSkinCareBookin.ApiService\\Controllers\\TherapistController.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAowF0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAQwF4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T01:45:21.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Schedules\\Index.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Schedules\\Index.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Schedules\\Index.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Schedules\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T11:15:12.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Therapists\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Therapists\\Edit.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Therapists\\Edit.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Therapists\\Edit.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T17:07:16.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Schedules\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Schedules\\Delete.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Schedules\\Delete.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Schedules\\Delete.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T11:24:30.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Therapists\\Details.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Therapists\\Details.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Therapists\\Details.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Therapists\\Details.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T16:50:29.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Therapists\\Create.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Therapists\\Create.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Therapists\\Create.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Therapists\\Create.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T17:08:51.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\Program.cs",
               "RelativeDocumentMoniker": "zSkinCareBookin.ApiService\\Program.cs",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\Program.cs*",
-              "RelativeToolTip": "zSkinCareBookin.ApiService\\Program.cs*",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAQwFEAAAATAAAAAAAAAA==",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\Program.cs",
+              "RelativeToolTip": "zSkinCareBookin.ApiService\\Program.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAawJEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T18:21:49.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserAccountRepository.cs",
-              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\UserAccountRepository.cs",
-              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\UserAccountRepository.cs",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\UserAccountRepository.cs",
-              "RelativeToolTip": "zSkinCareBookingRepositories\\UserAccountRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T16:17:08.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserAccountServiceImplement.cs",
-              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\ImplementService\\UserAccountServiceImplement.cs",
-              "RelativeDocumentMoniker": "zSkinCareBookingServices\\ImplementService\\UserAccountServiceImplement.cs",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\ImplementService\\UserAccountServiceImplement.cs",
-              "RelativeToolTip": "zSkinCareBookingServices\\ImplementService\\UserAccountServiceImplement.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T16:25:34.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TherapistServiceImplement.cs",
-              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\ImplementService\\TherapistServiceImplement.cs",
-              "RelativeDocumentMoniker": "zSkinCareBookingServices\\ImplementService\\TherapistServiceImplement.cs",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\ImplementService\\TherapistServiceImplement.cs",
-              "RelativeToolTip": "zSkinCareBookingServices\\ImplementService\\TherapistServiceImplement.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T01:40:35.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ScheduleImplementService.cs",
-              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\ImplementService\\ScheduleImplementService.cs",
-              "RelativeDocumentMoniker": "zSkinCareBookingServices\\ImplementService\\ScheduleImplementService.cs",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\ImplementService\\ScheduleImplementService.cs",
-              "RelativeToolTip": "zSkinCareBookingServices\\ImplementService\\ScheduleImplementService.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:24:51.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "TherapistServiceInterface.cs",
               "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\InterfaceService\\TherapistServiceInterface.cs",
               "RelativeDocumentMoniker": "zSkinCareBookingServices\\InterfaceService\\TherapistServiceInterface.cs",
               "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\InterfaceService\\TherapistServiceInterface.cs",
               "RelativeToolTip": "zSkinCareBookingServices\\InterfaceService\\TherapistServiceInterface.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAtwBUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T01:07:16.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
+              "Title": "TherapistRepository.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\TherapistRepository.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\TherapistRepository.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\TherapistRepository.cs",
+              "RelativeToolTip": "zSkinCareBookingRepositories\\TherapistRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAewCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T00:53:36.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TherapistServiceImplement.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\ImplementService\\TherapistServiceImplement.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookingServices\\ImplementService\\TherapistServiceImplement.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\ImplementService\\TherapistServiceImplement.cs",
+              "RelativeToolTip": "zSkinCareBookingServices\\ImplementService\\TherapistServiceImplement.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:40:35.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Schedules\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Schedules\\Edit.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Schedules\\Edit.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Schedules\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T11:24:49.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookin.ApiService\\Controllers\\ScheduleController.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "zSkinCareBookin.ApiService\\Controllers\\ScheduleController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwFYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:32:27.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookin.ApiService\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "zSkinCareBookin.ApiService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:45:09.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TherapistDTO.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\DTO\\TherapistDTO.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\DTO\\TherapistDTO.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\DTO\\TherapistDTO.cs",
+              "RelativeToolTip": "zSkinCareBookingRepositories\\DTO\\TherapistDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T00:36:31.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ScheduleInterfaceService.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\InterfaceService\\ScheduleInterfaceService.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookingServices\\InterfaceService\\ScheduleInterfaceService.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\InterfaceService\\ScheduleInterfaceService.cs",
+              "RelativeToolTip": "zSkinCareBookingServices\\InterfaceService\\ScheduleInterfaceService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwBIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:27:51.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Therapist.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Models\\Therapist.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\Models\\Therapist.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Models\\Therapist.cs",
+              "RelativeToolTip": "zSkinCareBookingRepositories\\Models\\Therapist.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T00:36:05.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Models\\User.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\Models\\User.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Models\\User.cs",
+              "RelativeToolTip": "zSkinCareBookingRepositories\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:26:04.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Schedules\\Details.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Schedules\\Details.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Schedules\\Details.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Schedules\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T12:32:42.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T10:27:20.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ScheduleDTO.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\DTO\\ScheduleDTO.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\DTO\\ScheduleDTO.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\DTO\\ScheduleDTO.cs",
+              "RelativeToolTip": "zSkinCareBookingRepositories\\DTO\\ScheduleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:26:03.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ScheduleRepository.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\ScheduleRepository.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\ScheduleRepository.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\ScheduleRepository.cs",
+              "RelativeToolTip": "zSkinCareBookingRepositories\\ScheduleRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:24:31.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ScheduleImplementService.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\ImplementService\\ScheduleImplementService.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookingServices\\ImplementService\\ScheduleImplementService.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\ImplementService\\ScheduleImplementService.cs",
+              "RelativeToolTip": "zSkinCareBookingServices\\ImplementService\\ScheduleImplementService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:24:51.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\Models\\Schedule.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Models\\Schedule.cs",
+              "RelativeToolTip": "zSkinCareBookingRepositories\\Models\\Schedule.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:03:54.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Program.cs",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Program.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Program.cs",
+              "RelativeToolTip": "SP25_MVC_FE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:27:26.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\appsettings.json",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\appsettings.json",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\appsettings.json",
+              "RelativeToolTip": "SP25_MVC_FE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T11:13:53.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\appsettings.json",
+              "RelativeDocumentMoniker": "zSkinCareBookin.ApiService\\appsettings.json",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\appsettings.json",
+              "RelativeToolTip": "zSkinCareBookin.ApiService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T18:18:43.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SP25_MVC_FE\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T10:44:06.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SP25_MVC_FE\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\SP25_MVC_FE\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SP25_MVC_FE\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T10:36:30.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "zSkinCareBookin.ApiService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "zSkinCareBookin.ApiService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T10:39:15.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "zSkinCareBookingRepositories.csproj",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj",
+              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj",
+              "RelativeToolTip": "zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T18:16:59.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\DTO\\LoginDTO.cs",
               "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\DTO\\LoginDTO.cs",
@@ -268,51 +839,59 @@
               "RelativeToolTip": "zSkinCareBookingRepositories\\DTO\\LoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T16:25:57.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T16:25:57.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ScheduleDTO.cs",
-              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\DTO\\ScheduleDTO.cs",
-              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\DTO\\ScheduleDTO.cs",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\DTO\\ScheduleDTO.cs",
-              "RelativeToolTip": "zSkinCareBookingRepositories\\DTO\\ScheduleDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 46,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookin.ApiService\\WeatherForecast.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\WeatherForecast.cs",
+              "RelativeToolTip": "zSkinCareBookin.ApiService\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T16:26:03.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T03:22:00.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TherapistRepository.cs",
-              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\TherapistRepository.cs",
-              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\TherapistRepository.cs",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\TherapistRepository.cs",
-              "RelativeToolTip": "zSkinCareBookingRepositories\\TherapistRepository.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAApwCIAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 48,
+              "Title": "UserAccountServiceInterface.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\InterfaceService\\UserAccountServiceInterface.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookingServices\\InterfaceService\\UserAccountServiceInterface.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\InterfaceService\\UserAccountServiceInterface.cs",
+              "RelativeToolTip": "zSkinCareBookingServices\\InterfaceService\\UserAccountServiceInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T00:53:36.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T16:24:47.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ScheduleRepository.cs",
-              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\ScheduleRepository.cs",
-              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\ScheduleRepository.cs",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\ScheduleRepository.cs",
-              "RelativeToolTip": "zSkinCareBookingRepositories\\ScheduleRepository.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwAgAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 49,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\UserAccountRepository.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\UserAccountRepository.cs",
+              "RelativeToolTip": "zSkinCareBookingRepositories\\UserAccountRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:24:31.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T16:17:08.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 47,
+              "Title": "UserAccountServiceImplement.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\ImplementService\\UserAccountServiceImplement.cs",
+              "RelativeDocumentMoniker": "zSkinCareBookingServices\\ImplementService\\UserAccountServiceImplement.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\ImplementService\\UserAccountServiceImplement.cs",
+              "RelativeToolTip": "zSkinCareBookingServices\\ImplementService\\UserAccountServiceImplement.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:25:34.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
               "Title": "SkincareBookingSystemV2Context.cs",
               "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\DBContext\\SkincareBookingSystemV2Context.cs",
               "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\DBContext\\SkincareBookingSystemV2Context.cs",
@@ -320,64 +899,11 @@
               "RelativeToolTip": "zSkinCareBookingRepositories\\DBContext\\SkincareBookingSystemV2Context.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAUwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:19:36.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T18:19:36.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\appsettings.json",
-              "RelativeDocumentMoniker": "zSkinCareBookin.ApiService\\appsettings.json",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookin.ApiService\\appsettings.json",
-              "RelativeToolTip": "zSkinCareBookin.ApiService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-16T18:18:43.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ScheduleInterfaceService.cs",
-              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\InterfaceService\\ScheduleInterfaceService.cs",
-              "RelativeDocumentMoniker": "zSkinCareBookingServices\\InterfaceService\\ScheduleInterfaceService.cs",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingServices\\InterfaceService\\ScheduleInterfaceService.cs",
-              "RelativeToolTip": "zSkinCareBookingServices\\InterfaceService\\ScheduleInterfaceService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:27:51.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TherapistDTO.cs",
-              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\DTO\\TherapistDTO.cs",
-              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\DTO\\TherapistDTO.cs",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\DTO\\TherapistDTO.cs",
-              "RelativeToolTip": "zSkinCareBookingRepositories\\DTO\\TherapistDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T00:36:31.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Therapist.cs",
-              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Models\\Therapist.cs",
-              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\Models\\Therapist.cs",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Models\\Therapist.cs",
-              "RelativeToolTip": "zSkinCareBookingRepositories\\Models\\Therapist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T00:36:05.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 51,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Base\\GenericRepository.cs",
               "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\Base\\GenericRepository.cs",
@@ -385,12 +911,11 @@
               "RelativeToolTip": "zSkinCareBookingRepositories\\Base\\GenericRepository.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAIwAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:23:02.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T18:23:02.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 52,
               "Title": "Service.cs",
               "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Models\\Service.cs",
               "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\Models\\Service.cs",
@@ -398,12 +923,11 @@
               "RelativeToolTip": "zSkinCareBookingRepositories\\Models\\Service.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T00:59:07.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T00:59:07.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 53,
               "Title": "UserAccount.cs",
               "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Models\\UserAccount.cs",
               "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\Models\\UserAccount.cs",
@@ -411,21 +935,7 @@
               "RelativeToolTip": "zSkinCareBookingRepositories\\Models\\UserAccount.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:39:27.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "zSkinCareBookingRepositories.csproj",
-              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj",
-              "RelativeDocumentMoniker": "zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj",
-              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj",
-              "RelativeToolTip": "zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-16T18:16:59.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T18:39:27.873Z"
             }
           ]
         }

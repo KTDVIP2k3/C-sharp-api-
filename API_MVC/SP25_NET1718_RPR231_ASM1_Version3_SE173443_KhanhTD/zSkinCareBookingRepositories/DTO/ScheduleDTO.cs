@@ -10,9 +10,9 @@ namespace zSkinCareBookingRepositories.DTO
 	{
 		public int TherapistId { get; set; }
 		public int BookingId { get; set; }
-		public DateTime Date { get; set; }
-		public TimeOnly StartFrom { get; set; }
-		public TimeOnly EndsAt { get; set; }
+		public String Date { get; set; }
+		public String StartFrom { get; set; }
+		public String EndsAt { get; set; }
 	}
 
 }

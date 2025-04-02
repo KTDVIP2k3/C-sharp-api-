@@ -25,7 +25,7 @@ namespace zSkinCareBookin.ApiService_.Controllers
 
 
 
-		[HttpGet("/GetAllTherapist")]
+		[HttpGet("GetAllTherapist")]
 		[EnableQuery]
 		[Authorize]
 		public async Task<IActionResult> GetAllTherapist()
@@ -38,7 +38,7 @@ namespace zSkinCareBookin.ApiService_.Controllers
 			return Ok(new { message = "Danh sách chuyên gia", data = therapists, status = HttpStatusCode.OK });
 		}
 
-		[HttpGet("/GetTherapistById{therapistId}")]
+		[HttpGet("GetTherapistById/{therapistId}")]
 		[Authorize]
 		public async Task<IActionResult> GetTherapisById(int therapistId)
 		{
@@ -56,7 +56,7 @@ namespace zSkinCareBookin.ApiService_.Controllers
 			}
 		}
 
-		[HttpPost("/CreateTherapist")]
+		[HttpPost("CreateTherapist")]
 		[Authorize]
 		public async Task<IActionResult> CreateTherapist([FromBody] TherapistDTO therapistDTO)
 		{
@@ -74,7 +74,7 @@ namespace zSkinCareBookin.ApiService_.Controllers
 			}
 		}
 
-		[HttpPut("/UpdateTherapist")]
+		[HttpPut("UpdateTherapist")]
 		[Authorize]
 		public async Task<IActionResult> UpdateTherapist(TherapistDTO therapistDTO)
 		{
@@ -92,7 +92,7 @@ namespace zSkinCareBookin.ApiService_.Controllers
 			}
 		}
 
-		[HttpDelete("/DeleteTherapist/{therapistId}")]
+		[HttpDelete("DeleteTherapist/{therapistId}")]
 		[Authorize]
 		public async Task<IActionResult> DeleteTherapistById(int therapistId)
 		{

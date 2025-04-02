@@ -27,7 +27,7 @@ namespace zSkinCareBookingServices_.ImplementService
 			therapist.ExpMonth = therapistDTO.ExpMonth;
 			therapist.Bio = therapistDTO.Bio;
 			therapist.Phone = therapistDTO.Phone;
-			therapist.ExpMonth = therapistDTO.ExpMonth;
+			therapist.Specialization = therapistDTO.Specialization;
 			therapist.CreateAtDateTime = DateTime.Now;
 			return await _therapistRepository.CreateAsync(therapist);
 		}
@@ -59,7 +59,7 @@ namespace zSkinCareBookingServices_.ImplementService
 			//therapist.UserId = therapistDTO.UserId;
 			therapist.Fullname = therapistDTO.Fullname;
 			therapist.Email = therapistDTO.Email;
-			therapist.ExpMonth = therapistDTO.ExpMonth;
+			therapist.Specialization = therapistDTO.Specialization;
 			therapist.Bio = therapistDTO.Bio;
 			therapist.Phone = therapistDTO.Phone;
 			therapist.ExpMonth = therapistDTO.ExpMonth;

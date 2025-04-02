@@ -25,23 +25,26 @@ namespace zSkinCareBookingRepositories
 			Schedule schedule = new Schedule();
 			schedule.TherapistId = scheduleDTO.TherapistId;
 			schedule.BookingId = scheduleDTO.BookingId;
-			schedule.StartFrom = scheduleDTO.StartFrom;
-			schedule.EndsAt = scheduleDTO.EndsAt;
-			schedule.Date = scheduleDTO.Date;
+			schedule.StartFrom = TimeOnly.Parse(scheduleDTO.StartFrom);
+			schedule.EndsAt = TimeOnly.Parse(scheduleDTO.EndsAt);
+			schedule.Date = DateTime.Parse(scheduleDTO.Date);
 			schedule.CreateAtDateTime = DateTime.Now;
 			_context.Add(schedule);
 			return await _context.SaveChangesAsync();
 		}
+
 
 		public async Task<int> UpdateSceduleById(int scheduleId,ScheduleDTO scheduleDTO)
 		{
 			 var schedule = await _context.Schedules.FirstOrDefaultAsync(s => s.Id == scheduleId);
 			if(schedule == null) 
 				return -1;
-			schedule.Date = scheduleDTO.Date;
-			schedule.StartFrom = scheduleDTO.StartFrom;
-			schedule.EndsAt = scheduleDTO.EndsAt;
-			schedule.UpdateAtDateTime = DateTime.Now;
+            schedule.StartFrom = TimeOnly.Parse(scheduleDTO.StartFrom);
+            schedule.EndsAt = TimeOnly.Parse(scheduleDTO.EndsAt);
+            schedule.Date = DateTime.Parse(scheduleDTO.Date);
+            schedule.UpdateAtDateTime = DateTime.Now;
+			schedule.BookingId = scheduleDTO.BookingId;
+			schedule.TherapistId = scheduleDTO.TherapistId;
 			_context.Update(schedule);
 			return await _context.SaveChangesAsync();
 		}

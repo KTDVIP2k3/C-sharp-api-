@@ -1,0 +1,78 @@
+﻿@page
+@model zSkinCareBookingFE_RazorPage.Pages.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Schedule[0].Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Schedule[0].StartFrom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Schedule[0].EndsAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Schedule[0].CreateAtDateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Schedule[0].UpdateAtDateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Schedule[0].IsDeleted)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Schedule[0].Booking)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Schedule[0].Therapist)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Schedule) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartFrom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndsAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreateAtDateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdateAtDateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsDeleted)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Booking.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Therapist.Fullname)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

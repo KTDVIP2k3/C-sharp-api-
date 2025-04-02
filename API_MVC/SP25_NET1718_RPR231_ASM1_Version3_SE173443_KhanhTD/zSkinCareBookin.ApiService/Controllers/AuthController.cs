@@ -27,7 +27,7 @@ namespace zSkinCareBookin.ApiService_.Controllers
             _userAccountServiceInterface = userAccountServiceInterface;
         }
 
-        [HttpPost("/Login")]
+        [HttpPost("Login")]
         public async Task<IActionResult> Login(LoginDTO userAccount)
         {
             int result = await _userAccountServiceInterface.Authenticate(userAccount);

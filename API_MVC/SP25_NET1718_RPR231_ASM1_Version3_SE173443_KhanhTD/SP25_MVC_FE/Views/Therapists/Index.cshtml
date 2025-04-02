@@ -1,0 +1,92 @@
+﻿@model IEnumerable<zSkinCareBookingRepositories_.Models.Therapist>
+
+@{
+	ViewData["Title"] = "Index";
+}
+
+<h1>Therapist Management</h1>
+
+
+@if (TempData["SuccessMessage"] != null)
+{
+	<div class="alert alert-success">
+		@TempData["SuccessMessage"]
+	</div>
+}
+
+<p>
+	<a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.Fullname)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Phone)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Email)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Specialization)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.ExpMonth)
+			</th>
+			@* <th>
+				@html.displaynamefor(model => model.bio)
+			</th>
+			<th>
+				@html.displaynamefor(model => model.createatdatetime)
+			</th>
+			<th>
+				@html.displaynamefor(model => model.updateatdatetime)
+			</th>
+			<th>
+				@html.displaynamefor(model => model.isdeleted)
+			</th> *@
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.Fullname)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Phone)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Email)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Specialization)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.ExpMonth)
+				</td>
+				<td>
+			@* 		@Html.DisplayFor(modelItem => item.Bio)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.CreateAtDateTime)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.UpdateAtDateTime)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.IsDeleted)
+				</td> *@
+				<td>
+					<a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+					<a asp-action="Details" asp-route-therapistId="@item.Id">Details</a> |
+					<a asp-action="Delete" asp-route-therapistId="@item.Id">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

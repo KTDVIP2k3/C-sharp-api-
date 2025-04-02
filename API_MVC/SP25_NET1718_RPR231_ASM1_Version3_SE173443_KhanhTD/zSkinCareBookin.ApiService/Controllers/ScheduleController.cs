@@ -20,7 +20,7 @@ namespace zSkinCareBookin.ApiService.Controllers
 			_scheduleInterfaceService = scheduleInterfaceService;
 		}
 
-		[HttpGet("/GetAllSchedule")]
+		[HttpGet("GetAllSchedule")]
 		[EnableQuery]
 		[Authorize]
 		public async Task<IActionResult> GetAllSchedule()
@@ -53,7 +53,7 @@ namespace zSkinCareBookin.ApiService.Controllers
 			//return schedule1;
 		}
 
-		[HttpPost("/CreateSchedule")]
+		[HttpPost("CreateSchedule")]
 		[Authorize]
 		public async Task<IActionResult> CreateSchedule([FromBody] ScheduleDTO scheduleDTO)
 		{
@@ -64,7 +64,7 @@ namespace zSkinCareBookin.ApiService.Controllers
 			return BadRequest(new {mesage = "Tạo schedule thất bại!"});
 		}
 
-		[HttpPut("/UpdateScheduleById/{scheduleId}")]
+		[HttpPut("UpdateScheduleById/{scheduleId}")]
 		[Authorize]
 		public async Task<IActionResult> UpdateScheduleById(int scheduleId, [FromBody] ScheduleDTO scheduleDTO)
 		{
@@ -84,7 +84,7 @@ namespace zSkinCareBookin.ApiService.Controllers
 			}
 		}
 
-		[HttpDelete("/DeleteScheduleById{scheduleId}")]
+		[HttpDelete("DeleteScheduleById/{scheduleId}")]
 		[Authorize]
 		public async Task<IActionResult> deleteScheduleById(int scheduleId)
 		{

@@ -1,0 +1,57 @@
+﻿@model IEnumerable<zSkinCareBookingRepositories_.Models.Schedule>
+
+@{
+	ViewData["Title"] = "Index";
+}
+
+<h1>Schedule Management</h1>
+
+
+@if (TempData["SuccessMessage"] != null)
+{
+	<div class="alert alert-success">
+		@TempData["SuccessMessage"]
+	</div>
+}
+
+
+<p>
+	<a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>@Html.DisplayNameFor(model => model.Id)</th>
+			<th>@Html.DisplayNameFor(model => model.Date)</th>
+			<th>@Html.DisplayNameFor(model => model.StartFrom)</th>
+			<th>@Html.DisplayNameFor(model => model.EndsAt)</th>
+			@*    <th>@Html.DisplayNameFor(model => model.CreateAtDateTime)</th>
+			<th>@Html.DisplayNameFor(model => model.UpdateAtDateTime)</th>
+			<th>@Html.DisplayNameFor(model => model.IsDeleted)</th> *@
+			<th>@Html.DisplayNameFor(model => model.Therapist.Fullname)</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@Html.DisplayFor(modelItem => item.Id)</td>
+				<td>@Html.DisplayFor(modelItem => item.Date)</td>
+				<td>@Html.DisplayFor(modelItem => item.StartFrom)</td>
+				<td>@Html.DisplayFor(modelItem => item.EndsAt)</td>
+				@*            <td>@Html.DisplayFor(modelItem => item.CreateAtDateTime)</td>
+			<td>@Html.DisplayFor(modelItem => item.UpdateAtDateTime)</td>
+			<td>@Html.DisplayFor(modelItem => item.IsDeleted)</td> *@
+				<td>@Html.DisplayFor(modelItem => item.Therapist.Fullname)</td>
+				<td>
+					<a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+					<a asp-action="Details" asp-route-scheduleId="@item.Id">Details</a> |
+					<a asp-action="Delete" asp-route-scheduleId="@item.Id">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\zSkinCareBookingFE_RazorPage.props" />
+</Project>

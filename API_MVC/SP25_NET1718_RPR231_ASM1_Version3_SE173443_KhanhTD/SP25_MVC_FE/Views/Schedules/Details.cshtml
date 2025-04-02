@@ -1,0 +1,71 @@
+﻿@model zSkinCareBookingRepositories_.Models.Schedule
+
+@{
+	ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+	<h4>Schedule</h4>
+	<hr />
+	<dl class="row">
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Date)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Date)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.StartFrom)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.StartFrom)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.EndsAt)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.EndsAt)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.CreateAtDateTime)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.CreateAtDateTime)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.UpdateAtDateTime)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.UpdateAtDateTime)
+		</dd>
+
+		@* <dt class="col-sm-2">
+		@Html.DisplayNameFor(model => model.IsDeleted)
+		</dt
+		*@
+		<dt class="col-sm-2">
+			Trạng thái
+		</dt>
+		@*
+		<dd class="col-sm-10">
+		@Html.DisplayFor(model => model.IsDeleted)
+		</dd> *@
+
+		<dd class="col-sm-10">
+			@(Model.IsDeleted.HasValue ? (Model.IsDeleted.Value ? "Không hoạt động" : "Đang hoạt động") : "Đang hoạt động")
+		</dd>
+
+		<dt class="col-sm-2">
+				@Html.DisplayNameFor(model => model.Therapist.Fullname)
+		</dt>
+		<dd class="col-sm-10">
+				@Html.DisplayFor(model => model.Therapist.Fullname)
+		</dd>
+	</dl>
+</div>
+<div>
+	<a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+	<a asp-action="Index">Back to List</a>
+</div>
