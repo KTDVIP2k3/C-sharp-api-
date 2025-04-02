@@ -1,0 +1,69 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "SP25_NET1718_PRN231_ASM2_SE173443_KhanhTD.Protos";
+
+service ScheduleGRPC {
+  rpc GetAllSchedule (EmptyRequest) returns (ActionResult);
+  rpc GetScheduleById (ScheduleIdRequest) returns (Schedule);
+  rpc DeleteScheduleById (ScheduleIdRequest) returns (ActionResult);
+  rpc AddSchedule (Schedule) returns (ActionResult);
+  rpc EditSchedule (ScheduleUpdate) returns (ActionResult);
+  rpc GetAllTherapist (EmptyRequest) returns (TherapistList);
+}
+
+message EmptyRequest {
+
+}
+
+message ScheduleIdRequest {
+  int32 ScheduleId = 1;
+}
+
+message TherapistList {
+  repeated Therapist Data = 1;
+}
+message ScheduleList {
+	repeated Schedule Data = 1;
+}
+
+message ActionResult {
+  int32 Status = 1;
+  string Message = 2;
+  ScheduleList Data = 3;
+}
+
+message Schedule {
+  
+    int32 TherapistId = 2;
+    int32 BookingId = 3;
+    string Date = 4;  // Sử dụng Timestamp cho DateTime
+    string StartFrom = 5;  // Sử dụng Duration cho TimeOnly
+    string EndsAt = 6;  
+    
+    // Các message liên quan đến Booking và Therapist có thể được định nghĩa thêm nếu cần
+ //   Therapist therapist = 10;
+}
+
+message ScheduleUpdate {
+    int32 Id = 1; 
+    int32 TherapistId = 2;
+    int32 BookingId = 3;
+    string Date = 4;  // Sử dụng Timestamp cho DateTime
+    string StartFrom = 5;  // Sử dụng Duration cho TimeOnly
+    string EndsAt = 6;  
+}
+
+message Therapist {
+    int32 id = 1;
+    int32 user_id = 2;
+    string fullname = 3;
+    string phone = 4;  // Optional trong gRPC
+    string email = 5;  // Optional trong gRPC
+    string specialization = 6;  // Optional trong gRPC
+    int32 exp_month = 7;  // Optional trong gRPC
+    string bio = 8;  // Optional trong gRPC
+    string create_at_datetime = 9;  // Timestamp cho DateTime
+    string update_at_datetime = 10;  // Timestamp cho DateTime
+    bool is_deleted = 11;  // Optional trong gRPC
+}
+
