@@ -1,0 +1,6 @@
+@SP25_NET1718_ASM4_SE173443_KhanhTD_HostAddress = http://localhost:5037
+
+GET {{SP25_NET1718_ASM4_SE173443_KhanhTD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

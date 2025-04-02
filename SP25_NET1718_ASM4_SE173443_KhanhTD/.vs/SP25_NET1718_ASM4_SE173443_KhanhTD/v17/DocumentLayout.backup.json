@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN231\\SP25_NET1718_ASM4_SE173443_KhanhTD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71AF5824-E2D0-4999-9421-214E39C6613B}|..\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\response\\responseobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFCE0C-FCBF-4E5C-9228-48FC81B9038F}|SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD.csproj|d:\\prn231\\sp25_net1718_asm4_se173443_khanhtd\\sp25_net1718_asm4_se173443_khanhtd\\grapqls\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFCE0C-FCBF-4E5C-9228-48FC81B9038F}|SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD.csproj|solutionrelative:sp25_net1718_asm4_se173443_khanhtd\\grapqls\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AF5824-E2D0-4999-9421-214E39C6613B}|..\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFCE0C-FCBF-4E5C-9228-48FC81B9038F}|SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD.csproj|d:\\prn231\\sp25_net1718_asm4_se173443_khanhtd\\sp25_net1718_asm4_se173443_khanhtd\\grapqls\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFCE0C-FCBF-4E5C-9228-48FC81B9038F}|SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD.csproj|solutionrelative:sp25_net1718_asm4_se173443_khanhtd\\grapqls\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFCE0C-FCBF-4E5C-9228-48FC81B9038F}|SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD.csproj|d:\\prn231\\sp25_net1718_asm4_se173443_khanhtd\\sp25_net1718_asm4_se173443_khanhtd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFCE0C-FCBF-4E5C-9228-48FC81B9038F}|SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD.csproj|solutionrelative:sp25_net1718_asm4_se173443_khanhtd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AF5824-E2D0-4999-9421-214E39C6613B}|..\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\dto\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AF5824-E2D0-4999-9421-214E39C6613B}|..\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AF5824-E2D0-4999-9421-214E39C6613B}|..\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\zSkinCareBookingRepositories.csproj|d:\\prn231\\api_mvc\\sp25_net1718_rpr231_asm1_version3_se173443_khanhtd\\zskincarebookingrepositories\\therapistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFCE0C-FCBF-4E5C-9228-48FC81B9038F}|SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD.csproj|d:\\prn231\\sp25_net1718_asm4_se173443_khanhtd\\sp25_net1718_asm4_se173443_khanhtd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1DFCE0C-FCBF-4E5C-9228-48FC81B9038F}|SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD.csproj|solutionrelative:sp25_net1718_asm4_se173443_khanhtd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFCE0C-FCBF-4E5C-9228-48FC81B9038F}|SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD.csproj|d:\\prn231\\sp25_net1718_asm4_se173443_khanhtd\\sp25_net1718_asm4_se173443_khanhtd\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFCE0C-FCBF-4E5C-9228-48FC81B9038F}|SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD.csproj|solutionrelative:sp25_net1718_asm4_se173443_khanhtd\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScheduleDTO.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\DTO\\ScheduleDTO.cs",
+              "RelativeDocumentMoniker": "..\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\DTO\\ScheduleDTO.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\DTO\\ScheduleDTO.cs",
+              "RelativeToolTip": "..\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\DTO\\ScheduleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T04:13:09.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN231\\SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD\\appsettings.json",
+              "RelativeDocumentMoniker": "SP25_NET1718_ASM4_SE173443_KhanhTD\\appsettings.json",
+              "ToolTip": "D:\\PRN231\\SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD\\appsettings.json",
+              "RelativeToolTip": "SP25_NET1718_ASM4_SE173443_KhanhTD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T04:01:04.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Query.cs",
+              "DocumentMoniker": "D:\\PRN231\\SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD\\GrapQls\\Query.cs",
+              "RelativeDocumentMoniker": "SP25_NET1718_ASM4_SE173443_KhanhTD\\GrapQls\\Query.cs",
+              "ToolTip": "D:\\PRN231\\SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD\\GrapQls\\Query.cs",
+              "RelativeToolTip": "SP25_NET1718_ASM4_SE173443_KhanhTD\\GrapQls\\Query.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:39:41.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN231\\SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD\\Program.cs",
+              "RelativeDocumentMoniker": "SP25_NET1718_ASM4_SE173443_KhanhTD\\Program.cs",
+              "ToolTip": "D:\\PRN231\\SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD\\Program.cs",
+              "RelativeToolTip": "SP25_NET1718_ASM4_SE173443_KhanhTD\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:26:15.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mutation.cs",
+              "DocumentMoniker": "D:\\PRN231\\SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD\\GrapQls\\Mutation.cs",
+              "RelativeDocumentMoniker": "SP25_NET1718_ASM4_SE173443_KhanhTD\\GrapQls\\Mutation.cs",
+              "ToolTip": "D:\\PRN231\\SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD\\GrapQls\\Mutation.cs",
+              "RelativeToolTip": "SP25_NET1718_ASM4_SE173443_KhanhTD\\GrapQls\\Mutation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:23:00.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScheduleRepository.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\ScheduleRepository.cs",
+              "RelativeDocumentMoniker": "..\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\ScheduleRepository.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\ScheduleRepository.cs",
+              "RelativeToolTip": "..\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\ScheduleRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T04:17:30.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResponseObj.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Response\\ResponseObj.cs",
+              "RelativeDocumentMoniker": "..\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Response\\ResponseObj.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Response\\ResponseObj.cs",
+              "RelativeToolTip": "..\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Response\\ResponseObj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T04:46:05.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TherapistRepository.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\TherapistRepository.cs",
+              "RelativeDocumentMoniker": "..\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\TherapistRepository.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\TherapistRepository.cs",
+              "RelativeToolTip": "..\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\TherapistRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T04:17:26.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "..\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Models\\Schedule.cs",
+              "ToolTip": "D:\\PRN231\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Models\\Schedule.cs",
+              "RelativeToolTip": "..\\API_MVC\\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\\zSkinCareBookingRepositories\\Models\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T04:01:52.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\PRN231\\SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SP25_NET1718_ASM4_SE173443_KhanhTD\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\PRN231\\SP25_NET1718_ASM4_SE173443_KhanhTD\\SP25_NET1718_ASM4_SE173443_KhanhTD\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SP25_NET1718_ASM4_SE173443_KhanhTD\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:14:46.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

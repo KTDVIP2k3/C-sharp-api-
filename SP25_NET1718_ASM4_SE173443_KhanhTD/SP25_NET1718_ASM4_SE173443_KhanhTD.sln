@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SP25_NET1718_ASM4_SE173443_KhanhTD", "SP25_NET1718_ASM4_SE173443_KhanhTD\SP25_NET1718_ASM4_SE173443_KhanhTD.csproj", "{B1DFCE0C-FCBF-4E5C-9228-48FC81B9038F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zSkinCareBookingServices", "..\API_MVC\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\zSkinCareBookingServices\zSkinCareBookingServices.csproj", "{0F8F842E-FD47-4685-BCF4-B73EC3F8E15D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zSkinCareBookingRepositories", "..\API_MVC\SP25_NET1718_RPR231_ASM1_Version3_SE173443_KhanhTD\zSkinCareBookingRepositories\zSkinCareBookingRepositories.csproj", "{71AF5824-E2D0-4999-9421-214E39C6613B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1DFCE0C-FCBF-4E5C-9228-48FC81B9038F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DFCE0C-FCBF-4E5C-9228-48FC81B9038F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DFCE0C-FCBF-4E5C-9228-48FC81B9038F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DFCE0C-FCBF-4E5C-9228-48FC81B9038F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8F842E-FD47-4685-BCF4-B73EC3F8E15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8F842E-FD47-4685-BCF4-B73EC3F8E15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8F842E-FD47-4685-BCF4-B73EC3F8E15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8F842E-FD47-4685-BCF4-B73EC3F8E15D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71AF5824-E2D0-4999-9421-214E39C6613B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71AF5824-E2D0-4999-9421-214E39C6613B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71AF5824-E2D0-4999-9421-214E39C6613B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71AF5824-E2D0-4999-9421-214E39C6613B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6980BDD5-58E7-42FA-B877-27344720D773}
+	EndGlobalSection
+EndGlobal
